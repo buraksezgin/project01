@@ -5,6 +5,7 @@ public class FirstClass {
 	public static void main(String[] args) {
 		System.out.println("Hello everyone");
 		System.out.println("Hi");
+		System.out.println("Third line of code I am typing");
 	}
 
 }
