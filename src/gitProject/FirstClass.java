@@ -12,6 +12,8 @@ public class FirstClass {
 
 		System.out.println("The conflict line of code from remote repo");
 		
+		System.out.println("Here are some changes from local feature branch");
+		
 
 	}
 
